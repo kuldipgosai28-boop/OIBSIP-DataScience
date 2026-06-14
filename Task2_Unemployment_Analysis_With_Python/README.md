@@ -44,6 +44,3 @@ This project demonstrates how Python can be used for data analysis and visualiza
 
 Kuldeepgiri Gosai
 
-## Internship
-
-Oasis Infobyte Data Science Internship (OIBSIP)
